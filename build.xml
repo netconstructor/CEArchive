@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<project name="cearchive" default="default" basedir=".">
+  <description>Buildfile for the CEarchive open source email archiving project.</description>
+
+  <property environment="env" />
+  <loadproperties srcfile="ant.properties" />
+
+  <target name="default">
+    <echo message="nothin' yet" />
+  </target>
+</project>
